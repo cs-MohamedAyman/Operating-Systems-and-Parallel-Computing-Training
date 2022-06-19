@@ -7,72 +7,64 @@
 
 Operating Systems and Parallel Computing Training for computer science students.
 
-<br><br>
-<img align="right" width="80" height="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/coursera.jpg">
-
-## [`Coursera-Specializations`](https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/README.md)
+## :dart: `Training Summary`
 
 <table>
     <tbody>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/Operating-Systems-and-Parallel-Computing-Specializations/README.md">Open Source Software Development, Linux and Git Specialization by The Linux Foundation</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/Operating-Systems-and-Parallel-Computing-Specializations/README.md">Learning Linux for LFCA Certification Specialization by LearnQuest</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/Operating-Systems-and-Parallel-Computing-Specializations/README.md">Computer Security and Systems Management Specialization by University of Colorado Boulder</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/Operating-Systems-and-Parallel-Computing-Specializations/README.md">Computer Communications Specialization by University of Colorado Boulder</a></td>
+<td align=center width="10%"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/clock.jpg" width="90%"></img></td>
+<td align=center width="15%"><h3>300<br>Hours</h3></td>
+<td align=center width="10%"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/calendar.jpg" width="90%"></img></td>
+<td align=center width="15%"><h3>15<br>Weeks</h3></td>
+<td align=center width="10%"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/folder.jpg" width="90%"></img></td>
+<td align=center width="15%"><h3>3<br>Courses</h3></td>
+<td align=center width="10%"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/clipboard.jpg" width="90%"></img></td>
+<td align=center width="15%"><h3>6<br>Modules</h3></td>
         </tr>
-        <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/the%20linux%20foundation.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/learnquest.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20colorado%20boulder.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20colorado%20boulder.jpg" width="70%"></img></td>
         </tr>
-        <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/Operating-Systems-and-Parallel-Computing-Specializations/README.md">Google IT Support Profession Specialization by Google</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/Operating-Systems-and-Parallel-Computing-Specializations/README.md">Parallel, Concurrent, and Distributed Programming in Java Specialization by Rice University</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/Operating-Systems-and-Parallel-Computing-Specializations/README.md">Parallel Computing by Intel</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/Operating-Systems-and-Parallel-Computing-Specializations/README.md">Google IT Automation with Python Profession Specialization by Google</a></td>
+<td align=center width="10%"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/bookmark.jpg" width="90%"></img></td>
+<td align=center width="15%"><h3>30<br>Lectures</h3></td>
+<td align=center width="10%"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cardindex.jpg" width="90%"></img></td>
+<td align=center width="15%"><h3>180<br>Lessons</h3></td>
+<td align=center width="10%"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/memo.jpg" width="90%"></img></td>
+<td align=center width="15%"><h3>60<br>Quizzes</h3></td>
+<td align=center width="10%"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/paperclip.jpg" width="90%"></img></td>
+<td align=center width="15%"><h3>300<br>Practices</h3></td>
         </tr>
-        <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/google.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/rice%20university.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/intel.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/google.jpg" width="70%"></img></td>
         </tr>
-        <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/Operating-Systems-and-Parallel-Computing-Specializations/README.md">Core Java Specialization by LearnQuest</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/Operating-Systems-and-Parallel-Computing-Specializations/README.md">Object Oriented Java Programming: Data Structures and Beyond Specialization by University of California San Diego</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/Operating-Systems-and-Parallel-Computing-Specializations/README.md">Version Control with Git by Atlassian</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/Operating-Systems-and-Parallel-Computing-Specializations/README.md">The Unix Workbench by Johns Hopkins University</a></td>
+<td align=center width="10%"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/lightbulb.jpg" width="90%"></img></td>
+<td align=center width="15%"><h3>15<br>Assignments</h3></td>
+<td align=center width="10%"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/label.jpg" width="90%"></img></td>
+<td align=center width="15%"><h3>150<br>Assignments<br>Tasks</h3></td>
+<td align=center width="10%"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/gamepad.jpg" width="90%"></img></td>
+<td align=center width="15%"><h3>30<br>Projects</h3></td>
+<td align=center width="10%"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/bookmark2.jpg" width="90%"></img></td>
+<td align=center width="15%"><h3>300<br>Projects<br>Tasks</h3></td>
         </tr>
-        <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/learnquest.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california%20san%20diego.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/atlassian.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/johns%20hopkins%20university.jpg" width="70%"></img></td>
         </tr>
-        <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/Operating-Systems-and-Parallel-Computing-Specializations/README.md">How to Manage a Remote Team by GitLab</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/Operating-Systems-and-Parallel-Computing-Specializations/README.md">Essential Cloud Infrastructure: Foundation by Google Cloud</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/Operating-Systems-and-Parallel-Computing-Specializations/README.md">Java Testing Specialization by LearnQuest</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/Operating-Systems-and-Parallel-Computing-Specializations/README.md">Java as a Second Language Specialization by LearnQuest</a></td>
-        </tr>
-        <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/gitlab.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/google%20cloud.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/learnquest.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/learnquest.jpg" width="70%"></img></td>
-        </tr>
-        <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/Operating-Systems-and-Parallel-Computing-Specializations/README.md">DevOps by University of California Davis</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/Operating-Systems-and-Parallel-Computing-Specializations/README.md">DevOps by University of Virginia</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/Operating-Systems-and-Parallel-Computing-Specializations/README.md">DevOps by LearnQuest</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/Operating-Systems-and-Parallel-Computing-Specializations/README.md">Python Scripting for DevOps Specialization by LearnQuest</a></td>
-        </tr>
-        <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california%20davis.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20virginia.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/learnquest.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/learnquest.jpg" width="70%"></img></td>
+<td align=center width="10%"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/youtube.jpg" width="90%"></img></td>
+<td align=center width="15%"><h3>15<br>Courses</h3></td>
+<td align=center width="10%"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/khan-academy.jpg" width="90%"></img></td>
+<td align=center width="15%"><h3>15<br>Courses</h3></td>
+<td align=center width="10%"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/coursera.jpg" width="90%"></img></td>
+<td align=center width="15%"><h3>15<br>Courses</h3></td>
+<td align=center width="10%"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/reference-textbooks.jpg" width="90%"></img></td>
+<td align=center width="15%"><h3>15<br>Textbooks</h3></td>
         </tr>
     </tbody>
 </table>
+
+### :pencil2: :page_facing_up: :ledger:  `keep writing your notes and enjoy learning`
+
+<br>
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/agenda.jpg">
+
+## Table of Contents
+  * [Lecture Notes](#Lecture-Notes)
+  * [Practice Labs](#Practice-Labs)
+  * [Mini Assignments](#Mini-Assignments)
+  * [Educational Projects](#Educational-Projects)
+  * [YouTube Playlists](#YouTube-Playlists)
+  * [Coursera Specializations](#Coursera-Specializations)
+  * [Reference Textbooks](#Reference-Textbooks)
+
